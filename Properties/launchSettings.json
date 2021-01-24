@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FindPublics": {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    }
+  }
+}
