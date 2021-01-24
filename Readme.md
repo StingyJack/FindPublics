@@ -3,8 +3,11 @@ I was not famililar with. Having the public functions allowed me to create A/B a
 
 
 I added it to the External Tools list in Visual Studio with these values
+
 Arguments  = $(TargetPath)
+
 Initial Directory = $(BinDir)
+
 [X] Use output window
 
 
